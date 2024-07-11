@@ -4,3 +4,7 @@ p {
     height: 80%;
     width: 50%;
 }
+
+h1 {
+    border: 5px solid black;
+}
