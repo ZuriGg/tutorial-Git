@@ -31,6 +31,8 @@ _Extras:_
 
 _ME HA FALTADO EN EL VÍDEO_
 
+- *IMPORTANTE:* -Se me ha olvidado explicar que en vez de agregar todas las claves ssh `En una empresa donde estuve se hacía así` puedes invitar por correo a un compañero para que tenga permiso para hacer push `Investigad o preguntar como hacerlo si no lo habeis hecho ya`
+
 - En visual studio, con la extensión instalada, en el símbolo  justo debajo de la "lupa" hay una especie de "ramita" con circulitos, ese simbolo al clicarlo nos muestra con una interfaz, un área para poder escribir un commit, muestra los cambios actuales que se hayan hecho en la rama en la que estes, y podemos commitear y hacer push con un solo botón (Para hacer stash hay que clicar en el simbolo "+" en cada archivo)
 
 - Git ignore `Añades un archivo llamado ". gitignore" sin extensión y dentro le agregas el nombre de los archivos que quieres que nunca agregue con el comando "git add ." buscar en google o chat gpt para saber como hacerlo, es facil`
